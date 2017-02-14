@@ -1,0 +1,18 @@
+body {
+    background-color: brown;
+}
+
+.header {
+    font-family: fantasy;
+    font-size: 5em;
+    text-align: center;
+    color: red;
+}
+
+
+.weather {
+    color: blue;
+    text-align: center;
+    font-size: 4em;
+    font-family: sans-serif;
+}
